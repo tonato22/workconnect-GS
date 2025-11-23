@@ -109,11 +109,11 @@ dotnet run
 
 Endpoints principais:
 
-- Swagger UI: `https://localhost:5001/swagger` (ou porta apresentada no console)
-- Health Check: `https://localhost:5001/health`
+- Swagger UI: `https://localhost:5000/swagger` (ou porta apresentada no console)
+- Health Check: `https://localhost:5000/health`
 - API base (v1):
-  - `https://localhost:5001/api/v1/users`
-  - `https://localhost:5001/api/v1/tips`
+  - `https://localhost:5000/api/v1/users`
+  - `https://localhost:5000/api/v1/tips`
 
 ---
 
