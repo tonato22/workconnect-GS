@@ -1,0 +1,11 @@
+C:\Users\User\Downloads\WorkConnectGs\src\WorkConnect.Domain\bin\Debug\net8.0\WorkConnect.Domain.deps.json
+C:\Users\User\Downloads\WorkConnectGs\src\WorkConnect.Domain\bin\Debug\net8.0\WorkConnect.Domain.dll
+C:\Users\User\Downloads\WorkConnectGs\src\WorkConnect.Domain\bin\Debug\net8.0\WorkConnect.Domain.pdb
+C:\Users\User\Downloads\WorkConnectGs\src\WorkConnect.Domain\obj\Debug\net8.0\WorkConnect.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\WorkConnectGs\src\WorkConnect.Domain\obj\Debug\net8.0\WorkConnect.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\WorkConnectGs\src\WorkConnect.Domain\obj\Debug\net8.0\WorkConnect.Domain.AssemblyInfo.cs
+C:\Users\User\Downloads\WorkConnectGs\src\WorkConnect.Domain\obj\Debug\net8.0\WorkConnect.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\WorkConnectGs\src\WorkConnect.Domain\obj\Debug\net8.0\WorkConnect.Domain.dll
+C:\Users\User\Downloads\WorkConnectGs\src\WorkConnect.Domain\obj\Debug\net8.0\refint\WorkConnect.Domain.dll
+C:\Users\User\Downloads\WorkConnectGs\src\WorkConnect.Domain\obj\Debug\net8.0\WorkConnect.Domain.pdb
+C:\Users\User\Downloads\WorkConnectGs\src\WorkConnect.Domain\obj\Debug\net8.0\ref\WorkConnect.Domain.dll

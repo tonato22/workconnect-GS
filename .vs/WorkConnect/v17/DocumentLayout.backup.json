@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\WorkConnectGs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|tests\\WorkConnect.Tests\\WorkConnect.Tests.csproj|c:\\users\\user\\downloads\\workconnectgs\\tests\\workconnect.tests\\workconnect.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|tests\\WorkConnect.Tests\\WorkConnect.Tests.csproj|solutionrelative:tests\\workconnect.tests\\workconnect.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|tests\\WorkConnect.Tests\\WorkConnect.Tests.csproj|c:\\users\\user\\downloads\\workconnectgs\\tests\\workconnect.tests\\integration\\userscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|tests\\WorkConnect.Tests\\WorkConnect.Tests.csproj|solutionrelative:tests\\workconnect.tests\\integration\\userscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|tests\\WorkConnect.Tests\\WorkConnect.Tests.csproj|c:\\users\\user\\downloads\\workconnectgs\\tests\\workconnect.tests\\integration\\tipscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|tests\\WorkConnect.Tests\\WorkConnect.Tests.csproj|solutionrelative:tests\\workconnect.tests\\integration\\tipscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|tests\\WorkConnect.Tests\\WorkConnect.Tests.csproj|c:\\users\\user\\downloads\\workconnectgs\\tests\\workconnect.tests\\integration\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|tests\\WorkConnect.Tests\\WorkConnect.Tests.csproj|solutionrelative:tests\\workconnect.tests\\integration\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\WorkConnect.Infrastructure\\WorkConnect.Infrastructure.csproj|c:\\users\\user\\downloads\\workconnectgs\\src\\workconnect.infrastructure\\migrations\\20251122185941_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\WorkConnect.Infrastructure\\WorkConnect.Infrastructure.csproj|solutionrelative:src\\workconnect.infrastructure\\migrations\\20251122185941_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\WorkConnect.Infrastructure\\WorkConnect.Infrastructure.csproj|c:\\users\\user\\downloads\\workconnectgs\\src\\workconnect.infrastructure\\migrations\\workconnectcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\WorkConnect.Infrastructure\\WorkConnect.Infrastructure.csproj|solutionrelative:src\\workconnect.infrastructure\\migrations\\workconnectcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\WorkConnect.Api\\WorkConnect.Api.csproj|c:\\users\\user\\downloads\\workconnectgs\\src\\workconnect.api\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\WorkConnect.Api\\WorkConnect.Api.csproj|solutionrelative:src\\workconnect.api\\appsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\WorkConnect.Infrastructure\\WorkConnect.Infrastructure.csproj|c:\\users\\user\\downloads\\workconnectgs\\src\\workconnect.infrastructure\\workconnect.infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\WorkConnect.Infrastructure\\WorkConnect.Infrastructure.csproj|solutionrelative:src\\workconnect.infrastructure\\workconnect.infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\WorkConnect.Api\\WorkConnect.Api.csproj|c:\\users\\user\\downloads\\workconnectgs\\src\\workconnect.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\WorkConnect.Api\\WorkConnect.Api.csproj|solutionrelative:src\\workconnect.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\WorkConnect.Api\\WorkConnect.Api.csproj|c:\\users\\user\\downloads\\workconnectgs\\src\\workconnect.api\\workconnect.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\WorkConnect.Api\\WorkConnect.Api.csproj|solutionrelative:src\\workconnect.api\\workconnect.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\WorkConnectGs\\tests\\WorkConnect.Tests\\Integration\\UsersControllerTests.cs",
+              "RelativeDocumentMoniker": "tests\\WorkConnect.Tests\\Integration\\UsersControllerTests.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\WorkConnectGs\\tests\\WorkConnect.Tests\\Integration\\UsersControllerTests.cs",
+              "RelativeToolTip": "tests\\WorkConnect.Tests\\Integration\\UsersControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T19:16:22.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TipsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\WorkConnectGs\\tests\\WorkConnect.Tests\\Integration\\TipsControllerTests.cs",
+              "RelativeDocumentMoniker": "tests\\WorkConnect.Tests\\Integration\\TipsControllerTests.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\WorkConnectGs\\tests\\WorkConnect.Tests\\Integration\\TipsControllerTests.cs",
+              "RelativeToolTip": "tests\\WorkConnect.Tests\\Integration\\TipsControllerTests.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T19:16:16.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomWebApplicationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\WorkConnectGs\\tests\\WorkConnect.Tests\\Integration\\CustomWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "tests\\WorkConnect.Tests\\Integration\\CustomWebApplicationFactory.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\WorkConnectGs\\tests\\WorkConnect.Tests\\Integration\\CustomWebApplicationFactory.cs",
+              "RelativeToolTip": "tests\\WorkConnect.Tests\\Integration\\CustomWebApplicationFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T19:16:10.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkConnect.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\WorkConnectGs\\tests\\WorkConnect.Tests\\WorkConnect.Tests.csproj",
+              "RelativeDocumentMoniker": "tests\\WorkConnect.Tests\\WorkConnect.Tests.csproj",
+              "ToolTip": "C:\\Users\\User\\Downloads\\WorkConnectGs\\tests\\WorkConnect.Tests\\WorkConnect.Tests.csproj",
+              "RelativeToolTip": "tests\\WorkConnect.Tests\\WorkConnect.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-22T19:12:43.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorkConnectContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\WorkConnectGs\\src\\WorkConnect.Infrastructure\\Migrations\\WorkConnectContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "src\\WorkConnect.Infrastructure\\Migrations\\WorkConnectContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\WorkConnectGs\\src\\WorkConnect.Infrastructure\\Migrations\\WorkConnectContextModelSnapshot.cs",
+              "RelativeToolTip": "src\\WorkConnect.Infrastructure\\Migrations\\WorkConnectContextModelSnapshot.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAQwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T19:00:20.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20251122185941_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\WorkConnectGs\\src\\WorkConnect.Infrastructure\\Migrations\\20251122185941_InitialCreate.cs",
+              "RelativeDocumentMoniker": "src\\WorkConnect.Infrastructure\\Migrations\\20251122185941_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\WorkConnectGs\\src\\WorkConnect.Infrastructure\\Migrations\\20251122185941_InitialCreate.cs",
+              "RelativeToolTip": "src\\WorkConnect.Infrastructure\\Migrations\\20251122185941_InitialCreate.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAEQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T19:00:14.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WorkConnect.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\WorkConnectGs\\src\\WorkConnect.Infrastructure\\WorkConnect.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\WorkConnect.Infrastructure\\WorkConnect.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\User\\Downloads\\WorkConnectGs\\src\\WorkConnect.Infrastructure\\WorkConnect.Infrastructure.csproj",
+              "RelativeToolTip": "src\\WorkConnect.Infrastructure\\WorkConnect.Infrastructure.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-22T18:52:37.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\WorkConnectGs\\src\\WorkConnect.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\WorkConnect.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Downloads\\WorkConnectGs\\src\\WorkConnect.Api\\appsettings.json",
+              "RelativeToolTip": "src\\WorkConnect.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-22T18:43:53.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WorkConnect.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\WorkConnectGs\\src\\WorkConnect.Api\\WorkConnect.Api.csproj",
+              "RelativeDocumentMoniker": "src\\WorkConnect.Api\\WorkConnect.Api.csproj",
+              "ToolTip": "C:\\Users\\User\\Downloads\\WorkConnectGs\\src\\WorkConnect.Api\\WorkConnect.Api.csproj",
+              "RelativeToolTip": "src\\WorkConnect.Api\\WorkConnect.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-22T18:36:58.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\WorkConnectGs\\src\\WorkConnect.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\WorkConnect.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\WorkConnectGs\\src\\WorkConnect.Api\\Program.cs",
+              "RelativeToolTip": "src\\WorkConnect.Api\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwDUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T18:37:16.589Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

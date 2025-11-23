@@ -1,0 +1,17 @@
+C:\Users\User\Downloads\WorkConnectGs\src\WorkConnect.Infrastructure\bin\Debug\net8.0\WorkConnect.Infrastructure.deps.json
+C:\Users\User\Downloads\WorkConnectGs\src\WorkConnect.Infrastructure\bin\Debug\net8.0\WorkConnect.Infrastructure.runtimeconfig.json
+C:\Users\User\Downloads\WorkConnectGs\src\WorkConnect.Infrastructure\bin\Debug\net8.0\WorkConnect.Infrastructure.dll
+C:\Users\User\Downloads\WorkConnectGs\src\WorkConnect.Infrastructure\bin\Debug\net8.0\WorkConnect.Infrastructure.pdb
+C:\Users\User\Downloads\WorkConnectGs\src\WorkConnect.Infrastructure\bin\Debug\net8.0\WorkConnect.Domain.dll
+C:\Users\User\Downloads\WorkConnectGs\src\WorkConnect.Infrastructure\bin\Debug\net8.0\WorkConnect.Domain.pdb
+C:\Users\User\Downloads\WorkConnectGs\src\WorkConnect.Infrastructure\obj\Debug\net8.0\WorkConnect.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\WorkConnectGs\src\WorkConnect.Infrastructure\obj\Debug\net8.0\WorkConnect.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\WorkConnectGs\src\WorkConnect.Infrastructure\obj\Debug\net8.0\WorkConnect.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\WorkConnectGs\src\WorkConnect.Infrastructure\obj\Debug\net8.0\WorkConnect.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Downloads\WorkConnectGs\src\WorkConnect.Infrastructure\obj\Debug\net8.0\WorkConnect.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\WorkConnectGs\src\WorkConnect.Infrastructure\obj\Debug\net8.0\WorkConn.1555460C.Up2Date
+C:\Users\User\Downloads\WorkConnectGs\src\WorkConnect.Infrastructure\obj\Debug\net8.0\WorkConnect.Infrastructure.dll
+C:\Users\User\Downloads\WorkConnectGs\src\WorkConnect.Infrastructure\obj\Debug\net8.0\refint\WorkConnect.Infrastructure.dll
+C:\Users\User\Downloads\WorkConnectGs\src\WorkConnect.Infrastructure\obj\Debug\net8.0\WorkConnect.Infrastructure.pdb
+C:\Users\User\Downloads\WorkConnectGs\src\WorkConnect.Infrastructure\obj\Debug\net8.0\WorkConnect.Infrastructure.genruntimeconfig.cache
+C:\Users\User\Downloads\WorkConnectGs\src\WorkConnect.Infrastructure\obj\Debug\net8.0\ref\WorkConnect.Infrastructure.dll
