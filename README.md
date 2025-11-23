@@ -217,9 +217,17 @@ Resposta exemplo (resumida):
 
 ---
 
+# 👥 **Integrantes**
+- **Gustavo Tonato** - RM555393
+- **Diogo Weyne** – RM558380
+- **João Victor de souza** - RM555290  
+
 ## 📌 Observação Final
 
-Se a sua instância de PostgreSQL tiver usuário/senha diferentes de `postgres/postgres`,  
+Se a sua instância de PostgreSQL tiver usuário/senha diferentes de `postgres/1234`,  
 basta ajustar a connection string em `appsettings.json`.
 
 Bom estudo e boa sprint! 🚀
+
+
+
